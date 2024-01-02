@@ -1,0 +1,1001 @@
+book_id,library_id,title,author,category,book_quantity
+1,26,Classical Mythology,Mark P. O. Morford,Adventure,5
+2,15,Clara Callan,Richard Bruce Wright,Biography,4
+3,18,Decision in Normandy,Carlo D'Este,Comedy,4
+4,22,Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It,Gina Bari Kolata,Thriller,4
+5,30,The Mummies of Urumchi,E. J. W. Barber,Thriller,4
+6,28,The Kitchen God's Wife,Amy Tan,Biography,3
+7,8,What If?: The World's Foremost Military Historians Imagine What Might Have Been,Robert Cowley,Drama,2
+8,15,PLEADING GUILTY,Scott Turow,Adventure,1
+9,27,Under the Black Flag: The Romance and the Reality of Life Among the Pirates,David Cordingly,Drama,4
+10,21,Where You'll Find Me: And Other Stories,Ann Beattie,Sci-Fi,4
+11,17,Nights Below Station Street,David Adams Richards,Sci-Fi,1
+12,19,Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust,Adam Lebor,Adventure,2
+13,11,The Middle Stories,Sheila Heti,Drama,1
+14,14,Jane Doe,R. J. Kaiser,Biography,2
+15,33,A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series),Jack Canfield,History,1
+16,23,The Witchfinder (Amos Walker Mystery Series),Loren D. Estleman,Drama,1
+17,1,More Cunning Than Man: A Social History of Rats and Man,Robert Hendrickson,Sci-Fi,3
+18,31,Goodbye to the Buttermilk Sky,Julia Oliver,Sci-Fi,4
+19,33,The Testament,John Grisham,Adventure,5
+20,32,Beloved (Plume Contemporary Fiction),Toni Morrison,History,3
+21,8,Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source,The Onion,Sci-Fi,3
+22,2,New Vegetarian: Bold and Beautiful Recipes for Every Occasion,Celia Brooks Brown,Romance,5
+23,10,If I'd Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can't Afford to Make Them All Yourself,J. R. Parrish,Comedy,1
+24,3,Mary-Kate &amp; Ashley Switching Goals (Mary-Kate and Ashley Starring in),Mary-Kate &amp; Ashley Olsen,Comedy,1
+25,21,Tell Me This Isn't Happening,Robynn Clairday,Thriller,4
+26,31,Flood : Mississippi 1927,Kathleen Duey,Romance,5
+27,19,Wild Animus,Rich Shapero,Romance,5
+28,21,Airframe,Michael Crichton,Biography,2
+29,22,Timeline,MICHAEL CRICHTON,Romance,1
+30,17,OUT OF THE SILENT PLANET,C.S. Lewis,Comedy,5
+31,14,Prague : A Novel,ARTHUR PHILLIPS,Adventure,5
+32,6,Chocolate Jesus,Stephan Jaramillo,Sci-Fi,5
+33,19,Wie Barney es sieht.,Mordecai Richler,Romance,5
+34,28,Der Fluch der Kaiserin. Ein Richter- Di- Roman.,Eleanor Cooney,Drama,4
+35,21,Sturmzeit. Roman.,Charlotte Link,Biography,2
+36,34,Tage der Unschuld.,Richard North Patterson,Comedy,4
+37,28,Lying Awake,Mark Salzman,Adventure,3
+38,31,To Kill a Mockingbird,Harper Lee,Biography,5
+39,18,Seabiscuit: An American Legend,LAURA HILLENBRAND,Romance,4
+40,18,Pigs in Heaven,Barbara Kingsolver,Adventure,5
+41,4,Miss Zukas and the Raven's Dance,Jo Dereske,History,3
+42,18,Pride and Prejudice,Jane Austen,Drama,3
+43,22,The Therapeutic Touch: How to Use Your Hands to Help or to Heal,Dolores Krieger,Sci-Fi,5
+44,34,Downtown,Anne Rivers Siddons,Thriller,2
+45,13,Icebound,Dean R. Koontz,Sci-Fi,4
+46,15,I'll Be Seeing You,Mary Higgins Clark,Comedy,5
+47,34,From the Corner of His Eye,Dean Koontz,Drama,2
+48,20,Isle of Dogs,Patricia Cornwell,Drama,2
+49,3,Purity in Death,J.D. Robb,Biography,2
+50,30,This Year It Will Be Different: And Other Stories,Maeve Binchy,Romance,4
+51,13,Proxies,Laura J. Mixon,Comedy,2
+52,23,Left Behind: A Novel of the Earth's Last Days (Left Behind #1),Tim Lahaye,Romance,2
+53,3,The Street Lawyer,JOHN GRISHAM,Adventure,3
+54,20,"Love, Medicine and Miracles",M.D. Bernie S. Siegel,Thriller,2
+55,16,All the King's Men,Robert Penn Warren,Adventure,4
+56,21,Pacific Northwest,Hans Johannes Hoefer,Biography,4
+57,23,A Soldier of the Great War,Mark Helprin,Thriller,2
+58,10,Getting Well Again,O. Carol Simonton Md,Biography,2
+59,33,Northwest Wines and Wineries,Chuck Hill,Drama,5
+60,18,An Atmosphere of Eternity: Stories of India,David Iglehart,Adventure,5
+61,13,LONESOME DOVE,Larry McMurtry,Comedy,3
+62,18,Shabanu: Daughter of the Wind (Border Trilogy),SUZANNE FISHER STAPLES,History,1
+63,2,Haveli (Laurel Leaf Books),SUZANNE FISHER STAPLES,Thriller,3
+64,19,Lieux dits,Michel Tournier,Drama,3
+65,4,The Dragons of Eden: Speculations on the Evolution of Human Intelligence,Carl Sagan,Drama,5
+66,22,The yawning heights,Aleksandr Zinoviev,Romance,2
+67,28,Breathing Lessons,Anne Tyler,Comedy,3
+68,33,The Joy Luck Club,Amy Tan,Comedy,2
+69,33,Heart of Darkness (Wordsworth Collection),Joseph Conrad,Biography,3
+70,34,The Angel Is Near,Deepak Chopra,Sci-Fi,3
+71,8,Tess of the D'Urbervilles (Wordsworth Classics),Thomas Hardy,Thriller,5
+72,2,The Adventures of Drew and Ellie: The Magical Dress,Charles Noland,Drama,4
+73,29,The Accidental Virgin,Valerie Frankel,Adventure,5
+74,8,The Tao of Pooh,Benjamin Hoff,History,5
+75,2,Seabiscuit,LAURA HILLENBRAND,Biography,2
+76,9,The Prince,Niccolo Machiavelli,Comedy,5
+77,34,Life's Little Instruction Book (Life's Little Instruction Books (Paperback)),H. Jackson Brown,Drama,4
+78,6,Starship Troopers,Robert A. Heinlein,Biography,4
+79,7,"The Ruby in the Smoke (Sally Lockhart Trilogy, Book 1)",PHILIP PULLMAN,Adventure,2
+80,6,Black Beauty (Illustrated Classics),Anna Sewell,Biography,4
+81,19,Anil's Ghost,MICHAEL ONDAATJE,Drama,4
+82,20,Prescription for Terror,Sandra Levy Ceren,Comedy,5
+83,28,Modern Manners: An Etiquette Book for Rude People,P.J. O'Rourke,Adventure,2
+84,17,Turning Thirty,Mike Gayle,Sci-Fi,5
+85,12,Decipher,Stel Pavlou,History,3
+86,3,"My First Cousin Once Removed: Money, Madness, and the Family of Robert Lowell",Sarah Payne Stuart,Sci-Fi,1
+87,33,Standing Firm: A Vice-Presidential Memoir,Dan Quayle,Sci-Fi,1
+88,14,Team Bush : Leadership Lessons from the Bush White House,Donald F. Kettl,History,1
+89,25,The Right Man : The Surprise Presidency of George W. Bush,DAVID FRUM,Sci-Fi,5
+90,27,Daybreakers Louis Lamour Collection,Louis Lamour,Sci-Fi,5
+91,16,The Catcher in the Rye,J.D. Salinger,Biography,1
+92,10,El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish)),J. R. R. Tolkien,Adventure,2
+93,12,El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback)),J. R. R. Tolkien,Thriller,5
+94,19,"El Senor De Los Anillos: El Retorno Del Rey (Tolkien, J. R. R. Lord of the Rings. 3.)",J. R. R. Tolkien,Comedy,5
+95,28,Midnight in the Garden of Good and Evil: A Savannah Story,John Berendt,Biography,1
+96,26,Pretend You Don't See Her,Mary Higgins Clark,History,1
+97,6,Fast Women,Jennifer Crusie,Biography,1
+98,21,Female Intelligence,Jane Heller,Sci-Fi,5
+99,34,Pasquale's Nose: Idle Days in an Italian Town,Michael Rips,Adventure,5
+100,6,The Gospel of Judas: A Novel,Simon Mawer,Sci-Fi,2
+101,12,"Prize Stories, 1987: The O'Henry Awards",William Abrahams,Comedy,2
+102,30,"Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money--That the Poor and Middle Class Do Not!",Robert T. Kiyosaki,Biography,2
+103,2,The Pillars of the Earth,Ken Follett,Drama,1
+104,6,McDonald's: Behind the Arches,John F. Love,Biography,3
+105,9,Creating Wealth : Retire in Ten Years Using Allen's Seven Principles of Wealth!,Robert G. Allen,Biography,1
+106,1,Corelli's Mandolin : A Novel,LOUIS DE BERNIERES,History,1
+107,15,"Love, Miracles, and Animal Healing : A heartwarming look at the spiritual bond between animals and humans",Pam Proctor,Sci-Fi,2
+108,24,The Five People You Meet in Heaven,Mitch Albom,Comedy,3
+109,24,Tu Nombre Escrito En El Agua (La Sonrisa Vertical),Irene Gonzalez Frei,Sci-Fi,4
+110,28,Relics (Star Trek: The Next Generation),Michael Jan Friedman,Adventure,5
+111,19,Bless The Beasts And Children : Bless The Beasts And Children,Glendon Swarthout,Sci-Fi,4
+112,17,"The Touch of Your Shadow, the Whisper of Your Name (Babylon 5, Book 5)",Neal Barrett Jr.,Drama,4
+113,27,Blood Oath,David Morrell,Sci-Fi,3
+114,26,The Alibi,Sandra Brown,Adventure,5
+115,14,The Beach House,James Patterson,Romance,3
+116,15,A Kiss Remembered,Sandra Brown,Sci-Fi,3
+117,32,The Short Forever,Stuart Woods,Adventure,4
+118,30,Dead Aim,IRIS JOHANSEN,Comedy,5
+119,29,Angels &amp; Demons,Dan Brown,Comedy,3
+120,9,The Deal,Joe Hutsko,Biography,1
+121,6,All He Ever Wanted: A Novel,Anita Shreve,Thriller,3
+122,30,"Every Breath You Take : A True Story of Obsession, Revenge, and Murder",Ann Rule,History,2
+123,30,"If I Ever Get Back to Georgia, I'm Gonna Nail My Feet to the Ground",LEWIS GRIZZARD,Sci-Fi,4
+124,26,The Mosquito Coast,Paul Theroux,History,4
+125,6,"If Love Were Oil, I'd Be About a Quart Low",Lewis Grizzard,Adventure,5
+126,26,"Goodbye, My Little Ones: The True Story of a Murderous Mother and Five Innocent Victims",Charles Hickey,Drama,2
+127,18,The Girl Who Loved Tom Gordon,Stephen King,History,1
+128,34,Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions,Ben Mezrich,Comedy,2
+129,1,"The Oneprince (The Redaemian Chronicles, Book 1)",Bill Hand,Adventure,4
+130,13,The Sum of All Fears,Tom Clancy,Thriller,1
+131,13,Care Packages : Letters to Christopher Reeve from Strangers and Other Friends,DANA REEVE,Biography,2
+132,27,O Deus Das Pequenas Coisas,Roy,History,1
+133,18,Lady in Green/Minor Indiscretions (Signet Regency Romance),Barbara Metzger,Biography,2
+134,16,One Hundred Years of Solitude,Gabriel Garcia Marquez,Romance,4
+135,18,Little Altars Everywhere: A Novel,Rebecca Wells,Biography,3
+136,28,Coyote Waits (Joe Leaphorn/Jim Chee Novels),Tony Hillerman,Biography,1
+137,32,Before I Say Good-Bye,Mary Higgins Clark,Adventure,1
+138,22,Slow Waltz in Cedar Bend,Robert James Waller,Comedy,3
+139,21,Twenty Minute Retreats: Revive Your Spirits in Just Minutes a Day (A Pan Self-discovery Title),Rachel Harris,Sci-Fi,4
+140,21,Atonement : A Novel,IAN MCEWAN,Biography,1
+141,32,Next: The Future Just Happened,Michael Lewis,Romance,4
+142,25,The Angelic Darkness,Richard Zimler,Drama,4
+143,19,The Soulbane Stratagem,Norman Jetmundsen,History,1
+144,27,Gangster,Lorenzo Carcaterra,Drama,1
+145,23,Hush,Anne Frasier,Romance,3
+146,21,"Whisper of Evil (Hooper, Kay. Evil Trilogy.)",Kay Hooper,Biography,1
+147,13,Temor y Temblor,Soren Kierkegaard,Drama,1
+148,8,Estudios sobre el amor,Jose Ortega Y Gaset,Romance,1
+149,26,Rebecca,Daphne Du Maurier,Romance,4
+150,4,Scarlet Letter,Nathaniel Hawthorne,Sci-Fi,3
+151,11,Keep It Simple: And Get More Out of Life,Nick Page,Drama,4
+152,34,Diary of a Mad Mom-To-Be,Laura Wolf,Adventure,5
+153,9,Locked in Time (Laurel Leaf Books),LOIS DUNCAN,Comedy,3
+154,16,Contact,Susan Grant,Biography,3
+155,11,The Brimstone Wedding,Barbara Vine,History,4
+156,10,The Catswold Portal,Shirley Rousseau Murphy,Thriller,4
+157,18,Through Wolf's Eyes (Wolf),Jane Lindskold,Adventure,3
+158,27,Puerto Vallarta Squeeze,Robert James Waller,Thriller,4
+159,31,Tree Grows In Brooklyn,Betty Smith,Sci-Fi,3
+160,6,"Cybill Disobedience: How I Survived Beauty Pageants, Elvis, Sex, Bruce Willis, Lies, Marriage, Motherhood, Hollywood, and the Irrepressible Urge to Say What I Think",Cybill Shepherd,Adventure,2
+161,28,Snow Angels,Stewart O'Nan,Sci-Fi,2
+162,2,Wish You Well,David Baldacci,Thriller,4
+163,28,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Sci-Fi,2
+164,25,Crow Lake (Today Show Book Club #7),Mary Lawson,Drama,2
+165,7,My Antonia,Willa Cather,Thriller,3
+166,23,Pen Pals,Olivia Goldsmith,Drama,3
+167,29,Bridget Jones's Diary,Helen Fielding,Biography,4
+168,23,Pride and Prejudice (Dover Thrift Editions),Jane Austen,Romance,3
+169,21,EYE ON CRIME: HARDY BOYS #153,Franklin W. Dixon,Comedy,1
+170,8,Skin And Bones,Franklin W. Dixon,Biography,4
+171,33,"LAW OF THE JUNGLE (HARDY BOYS CASE FILE 105) : LAW OF THE JUNGLE (Hardy Boys, The)",Franklin W. Dixon,Thriller,2
+172,18,The Cat Who Came to Breakfast (Cat Who... (Hardcover)),Lilian Jackson Braun,History,5
+173,31,"If Singleness Is a Gift, What's the Return Policy?",Holly Virden,Adventure,2
+174,25,Always Daddy's Girl: Understanding Your Father's Impact on Who You Are,H. Norman Wright,Romance,3
+175,21,Night Mare (Xanth Novels (Paperback)),Piers Anthony,Thriller,4
+176,13,The Martian Chronicles,RAY BRADBURY,Sci-Fi,3
+177,16,Kabale Und Liebe,Schiller,Comedy,3
+178,33,Der illustrierte Mann. ErzÃ?Â¤hlungen.,Ray Bradbury,History,4
+179,13,Der KÃ?Â¶nig in Gelb.,Raymond Chandler,Comedy,3
+180,20,Fahrenheit 451,Ray Bradbury,Biography,2
+181,15,Die Mars- Chroniken. Roman in ErzÃ?Â¤hlungen.,Ray Bradbury,Thriller,3
+182,6,Das BÃ?Â¶se kommt auf leisen Sohlen.,Ray Bradbury,Drama,3
+183,14,LÃ?Â¶wenzahnwein. Roman.,Ray Bradbury,History,3
+184,28,Das Kind von morgen. ErzÃ?Â¤hlungen.,Ray Bradbury,Biography,4
+185,28,Die Mechanismen der Freude. ErzÃ?Â¤hlungen.,Ray Bradbury,Biography,2
+186,19,Familientreffen. ErzÃ?Â¤hlungen.,Ray Bradbury,History,2
+187,17,Der Tod kommt schnell in Mexico. ErzÃ?Â¤hlungen.,Ray Bradbury,History,3
+188,5,Veronika Deschliesst Zu Sterben / Vernika Decides to Die,Paolo Coelho,Thriller,4
+189,29,Die Liebe in Den Zelten,Gabriel Garcia Marquez,Biography,4
+190,17,Die Klone der Joanna May. Roman.,Fay Weldon,Adventure,4
+191,20,Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.,Arabella Weir,Adventure,3
+192,22,Haifischfrauen.,Kiana Davenport,Comedy,4
+193,22,Die Cappuccino- Jahre. Aus dem Tagebuch des Adrian Mole.,Sue Townsend,Adventure,4
+194,7,Schwarzer Tee mit drei StÃ¼ck Zucker,Renan Demirkan,Biography,1
+195,9,QuerschÃ?Â¼sse - Downsize This!,Michael Moore,Adventure,4
+196,19,Die Korrekturen.,Jonathan Franzen,Drama,4
+197,30,Neun ErzÃ?Â¤hlungen.,Jerome D. Salinger,History,2
+198,31,"Hebt den Dachbalken hoch, Zimmerleute / Seymour wird vorgestellt.",Jerome D. Salinger,History,2
+199,27,"Ulysses (Ã?Â?bersetzg. WollschlÃ?Â¤ger). ( Neue Folge, 100).",James Joyce,Adventure,1
+200,3,Eine ganz normale AffÃ?Â¤re.,Joanna Trollope,History,3
+201,8,"Das Intimleben des Adrian Mole, 13 3/4 Jahre. cbt. ( Ab 14 J.).",Sue Townsend,Sci-Fi,1
+202,21,Das Buch der lÃ?Â¤cherlichen Liebe.,Milan Kundera,Thriller,4
+203,19,The God of Small Things,Arundhati Roy,Sci-Fi,5
+204,31,The James Dean Affair: A Neil Gulliver &amp; Stevie Marriner Novel,Robert S. Levinson,Comedy,4
+205,34,The Big Bad Wolf: A Novel,James Patterson,Sci-Fi,4
+206,22,Four Blind Mice,James Patterson,Comedy,2
+207,4,Private Screening,Richard North Patterson,Thriller,3
+208,7,Congo,Michael Crichton,History,3
+209,17,Protect and Defend,Richard North Patterson,History,1
+210,11,The Tall Pine Polka,Lorna Landvik,Adventure,2
+211,8,Memoirs of a Geisha,Arthur Golden,Romance,5
+212,27,Plainsong (Vintage Contemporaries),KENT HARUF,Thriller,5
+213,16,Body of Evidence (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,Romance,2
+214,20,All That Remains (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,Drama,3
+215,9,The Case of the Lost Look-Alike (An Avon Camelot Book),Carol J. Farley,Adventure,5
+216,18,Petals on the River,Kathleen E. Woodiwiss,Thriller,5
+217,19,The Elusive Flame,Kathleen E. Woodiwiss,Romance,2
+218,9,Legacy of Silence,Belva Plain,Drama,1
+219,12,The Brethren,JOHN GRISHAM,Thriller,4
+220,8,The King of Torts,John Grisham,Biography,5
+221,9,The Curious Incident of the Dog in the Night-Time : A Novel,MARK HADDON,Comedy,4
+222,9,Bleachers,John Grisham,Drama,3
+223,21,Sisterhood of the Traveling Pants,ANN BRASHARES,Biography,3
+224,10,Only Love (Magical Love),Erich Segal,History,4
+225,27,All or Nothing (Wheeler Large Print Books),Elizabeth Adler,Biography,1
+226,18,Roses Are Red (Alex Cross Novels),James Patterson,Sci-Fi,5
+227,19,The Rescue,Nicholas Sparks,History,4
+228,12,Manhattan Hunt Club,JOHN SAUL,Thriller,1
+229,12,Patty Jane's House of Curl (Ballantine Reader's Circle),LORNA LANDVIK,Biography,2
+230,5,Pet Sematary,Stephen King,Romance,4
+231,28,Silent Snow,Steve Thayer,Biography,1
+232,29,Girl with a Pearl Earring,Tracy Chevalier,Romance,3
+233,8,Summer of Storms,Judith Kelman,Drama,3
+234,28,The Patient,Michael Palmer,History,1
+235,3,"Demona's Revenge (Gargoyles, No. 2)",Francine Hughes,Adventure,5
+236,21,Clifford's Sports Day,Norman Bridwell,History,5
+237,25,Postmortem (Kay Scarpetta Mysteries (Paperback)),Patricia Cornwell,Comedy,3
+238,28,Deception Point,Dan Brown,Drama,4
+239,2,Tis : A Memoir,Frank McCourt,Romance,1
+240,29,Angels &amp; Demons,Dan Brown,History,4
+241,30,A Monk Swimming,Malachy McCourt,Thriller,5
+242,10,Crazy Horse,Mari Sandoz,Drama,3
+243,3,The Silent Cry (William Monk Novels (Paperback)),Anne Perry,Sci-Fi,3
+244,25,The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency),ALEXANDER MCCALL SMITH,Comedy,3
+245,15,Chicken Soup for the Soul (Chicken Soup for the Soul),Jack Canfield,Romance,2
+246,10,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,Thriller,5
+247,9,Life of Pi,Yann Martel,Thriller,5
+248,21,A Judgement in Stone,Ruth Rendell,Comedy,1
+249,8,Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right,Al Franken,Thriller,3
+250,8,Secret History,DONNA TARTT,Biography,5
+251,32,Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series (Paper)),Jack Canfield,Sci-Fi,3
+252,14,Great Expectations (Heinemann Guided Readers),John Milne,Adventure,2
+253,28,The Weight of Water,Anita Shreve,History,4
+254,31,Moving Pictures (Discworld Novels (Paperback)),Terry Pratchett,Thriller,4
+255,9,Night Watch,Terry Pratchett,Romance,4
+256,26,Thief of Time,Terry Pratchett,Drama,1
+257,2,Charlotte's Web Book and Charm (Charming Classics),E. B. White,Romance,3
+258,16,Peter Pan: The Original Story (Peter Pan),J. M. Barrie,Adventure,5
+259,14,My Friend Flicka,Mary O'Hara,Sci-Fi,3
+260,30,The Last Hero : A Discworld Fable (Discworld Novels (Hardcover)),Terry Pratchett,Romance,5
+261,20,Jingo: A Discworld Novel (Discworld Series/Terry Pratchett),Terry Pratchett,History,3
+262,33,"Maskerade: A Novel of Discworld (Pratchett, Terry. Discworld Series (New York, N.Y.).)",Terry Pratchett,Sci-Fi,5
+263,17,Interesting Times: A Novel of Discworld,Terry Pratchett,Romance,2
+264,23,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",Louise Rennison,Romance,4
+265,20,Mansfield Park (Penguin Popular Classics),Jane Austen,Drama,1
+266,32,The Wind in the Willows,Kenneth Grahame,Sci-Fi,2
+267,18,The Winter King: A Novel of Arthur (The Warlord Chronicles: I),Bernard Cornwell,Drama,2
+268,2,Moonheart (Newford),Charles de Lint,Sci-Fi,5
+269,13,The King of Elfland's Daughter (Del Rey Impact),Edward John Moreton Drax Plunkett Dunsany,Romance,5
+270,12,Powder and Patch,Georgette Heyer,Thriller,3
+271,27,The Picture of Dorian Gray (Modern Library (Paperback)),OSCAR WILDE,Drama,3
+272,2,The Iron Giant,Ted Hughes,Sci-Fi,3
+273,22,James and the Giant Peach,ROALD DAHL,Drama,2
+274,2,"The Amber Spyglass (His Dark Materials, Book 3)",PHILIP PULLMAN,Romance,3
+275,27,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Drama,3
+276,34,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,Romance,3
+277,14,"The Adrian Mole Diaries : The Secret Diary of Adrian Mole, Aged 13 3/4 : The Growing Pains of Adrian Mole",Sue Townsend,Adventure,4
+278,30,Martian Chronicles,Ray Bradbury,Romance,5
+279,17,The Great God Pan,Donna Jo Napoli,Biography,5
+280,6,Possession: A Romance,A. S. Byatt,Drama,1
+281,32,Born Confused,Tanuja Desai Hidier,History,5
+282,24,Confessions of a Shopaholic,SOPHIE KINSELLA,Biography,1
+283,14,Making Minty Malone,Isabel Wolff,Thriller,1
+284,20,Little Women (Signet Classic),Louisa May Alcott,Comedy,1
+285,13,Emma (Signet Classics (Paperback)),Jane Austen,Thriller,1
+286,33,Animal Farm,George Orwell,Thriller,2
+287,23,Great Expectations (Dover Thrift Editions),Charles Dickens,Adventure,4
+288,19,Eva Luna,Isabel Allende,History,2
+289,34,Poisonwood Bible Edition Uk,Barbara Kingsolver,Romance,2
+290,30,The Green Man : Tales from the Mythic Forest,Ellen Datlow,Thriller,1
+291,9,Nicholas Nickleby (Everyman's Library),Charles Dickens,Sci-Fi,2
+292,13,Angels &amp; Insects : Two Novellas,A.S. BYATT,History,1
+293,25,Catch 22,Joseph Heller,Biography,1
+294,4,The Forsyte Saga : The Man of Property and In Chancery,John Galsworthy,History,1
+295,18,The Enchanted Wood,Enid Blyton,Sci-Fi,4
+296,13,The Folk of the Faraway Tree,Enid Blyton,Sci-Fi,1
+297,16,Angels and Visitations: A Miscellany,Neil Gaiman,History,5
+298,15,"League of Extraordinary Gentlemen, Vol. 2 (Comic)",Alan Moore,Drama,1
+299,32,"Preludes and Nocturnes (Sandman, Book 1)",Neil Gaiman,Drama,2
+300,20,"The League of Extraordinary Gentlemen, Vol. 1",Alan Moore,Drama,2
+301,16,Harlequin Valentine,Neil Gaiman,Adventure,1
+302,17,Alpha Teach Yourself American Sign Language in 24 Hours (Alpha Teach Yourself in 24 Hours),Trudy Suggs,Sci-Fi,4
+303,16,A Man in Full,Tom Wolfe,Drama,1
+304,23,The Miracle Life of Edgar Mint: A Novel,Brady Udall,Comedy,1
+305,25,October Sky: A Memoir,Homer Hickam,Biography,5
+306,25,A Painted House,John Grisham,Drama,1
+307,12,The Romance Reader,Pearl Abraham,Biography,5
+308,34,Far from the Madding Crowd (Wordsworth Classics),Thomas Hardy,Thriller,4
+309,22,The Perfect Storm : A True Story of Men Against the Sea,Sebastian Junger,Biography,5
+310,13,The Battle for God,Karen Armstrong,Thriller,2
+311,34,Sappho: A New Translation,Mary Barnard,History,5
+312,8,The Postman (Bantam Classics),David Brin,Romance,5
+313,8,The Tortilla Curtain,T. Coraghessan Boyle,Romance,1
+314,16,Symposium,Paul Woodruff,Sci-Fi,5
+315,20,The What's Happening to My Body? Book for Boys: A Growing Up Guide for Parents and Sons,Lynda Madaras,Thriller,4
+316,5,OBJECT AFFECTION,Stephen McCauley,Sci-Fi,1
+317,2,The Journey Home,Isabelle Holland,Biography,3
+318,17,Taking the Ferry Home,Pam Conrad,Biography,3
+319,28,Angel of Hope (Mercy Trilogy),Lurlene McDaniel,Thriller,3
+320,11,The Breach,Brian Kaufman,Sci-Fi,1
+321,18,Neanderthal: A Novel,John Darnton,Comedy,5
+322,20,A Small Dark Place,Martin Schenk,Sci-Fi,2
+323,6,The Rivan Codex : Ancient Texts of THE BELGARIAD and THE MALLOREON,DAVID EDDINGS,Sci-Fi,5
+324,22,Babyhood,Paul Reiser,Sci-Fi,3
+325,27,Year's Best Fantasy (Year's Best Fantasy),David G. Hartwell,Adventure,1
+326,27,Dave Barry in Cyberspace,Dave Barry,Comedy,2
+327,29,Wolf Moon,John R. Holt,Drama,1
+328,32,The War in Heaven (Eternal Warriors),Theodore Beale,Romance,5
+329,5,Waiting,Frank M. Robinson,Drama,4
+330,9,Nowhere To Run,Mary Jane Clark,Thriller,1
+331,29,Frankenstein (Dover Thrift Editions),Mary Wollstonecraft Shelley,Comedy,5
+332,9,El gust amarg de la cervesa (CollecciÃ³ ClÃ ssica),Isabel-Clara SimÃ³,Thriller,1
+333,24,Urn Burial,Robert Westall,Comedy,3
+334,11,All Our Yesterdays (Large Print),Robert B. Parker,History,1
+335,9,What Shall I Be (Barbie Carryalong),Rita Chapman Works,Romance,2
+336,6,ALL THAT REMAINS,Patricia Cornwell,History,4
+337,15,Last Chance to See,Douglas Adams,Comedy,3
+338,27,Vinegar Hill (Oprah's Book Club (Paperback)),A. Manette Ansay,Drama,1
+339,1,Affinity,Sarah Waters,Sci-Fi,2
+340,27,Diario de Ana Frank,Anne Frank,Comedy,5
+341,32,Desert Notes/River Notes,Barry Lopez,Adventure,2
+342,19,"The Best Democracy Money Can Buy: The Truth About Corporate Cons, Globalization and High-Finance Fraudsters",Greg Palast,History,1
+343,8,The Hunt for Red October,Tom Clancy,Sci-Fi,5
+344,17,The Music Box,Andrea Kane,Drama,1
+345,12,Liberty Falling (Anna Pigeon Mysteries (Paperback)),Nevada Barr,Biography,2
+346,7,El Palacio de La Luna,Paul Auster,Biography,4
+347,22,Mientras Escribo,Stephen King,Thriller,5
+348,17,Killer Market (Deborah Knott Mysteries (Paperback)),Margaret Maron,Comedy,5
+349,23,Remembering Peter Gzowski : A Book of Tributes,EDNA BARKER,Biography,2
+350,5,The Best Canadian Animal Stories: Classic Tales by Master Storytellers,Muriel Whitaker,Sci-Fi,4
+351,16,Trying to Save Piggy Sneed,John Irving,Thriller,4
+352,23,"Herr Der Fliegen (Fiction, Poetry and Drama)",Golding,History,5
+353,34,Seattle Access,HarperReference,Adventure,5
+354,12,REAL GUIDE: CALIFORNIA AND THE WEST COAST (The Real guides),LTD,Adventure,1
+355,2,Bel Canto,Ann Patchett,Biography,4
+356,12,James and the Giant Peach,Roald Dahl,History,5
+357,24,The Secret Life of Bees,Sue Monk Kidd,Biography,1
+358,6,What a Wonderful World: A Lifetime of Recordings,Bob Thiele,Comedy,2
+359,3,Digital Fortress : A Thriller,Dan Brown,Comedy,4
+360,3,The Ladies of Missalonghi,Colleen McCullough,Sci-Fi,2
+361,19,Blackberry Wine : A Novel,Joanne Harris,Romance,4
+362,24,The Firm,John Grisham,Biography,1
+363,31,How the Irish Saved Civilization: The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Medieval Europe (Hinges of History),Thomas Cahill,Thriller,4
+364,28,The Client,John Grisham,Comedy,3
+365,21,Thieves of Light (Photon : the Ultimate Game on Planet Earth),Michael Hudson,Adventure,5
+366,2,Horse Heaven (Ballantine Reader's Circle),Jane Smiley,History,4
+367,1,Danger,Dick Francis,Romance,1
+368,22,Proof,Dick Francis,Drama,4
+369,10,Heart of the Sea (Irish Trilogy),Nora Roberts,Comedy,5
+370,24,Mostly Harmless,Douglas Adams,Adventure,2
+371,26,I Spy: A Book of Picture Riddles,Jean Marzollo,Romance,1
+372,34,I Spy Spooky Night: A Book of Picture Riddles (I Spy Books),Walter Wick,History,3
+373,2,Lake News,Barbara Delinsky,Sci-Fi,3
+374,9,The SKULL BENEATH THE SKIN,P. D. James,Thriller,2
+375,20,NEW SHOE,Arthur William Upfield,Drama,4
+376,27,An Accidental Woman,Barbara Delinsky,Comedy,3
+377,2,The Snow Garden,Christopher Rice,Drama,4
+378,18,The Doorbell Rang (The Best Mysteries of All Time),Rex Stout,Sci-Fi,5
+379,10,A Year by the Sea: Thoughts of an Unfinished Woman,Joan Anderson,Thriller,1
+380,8,Though I walk through the valley,Vance Havner,Sci-Fi,5
+381,30,Victorious Christians You Should Know,Warren W. Wiersbe,Comedy,4
+382,9,Life Lessons: Book Of Hebrews,Max Lucado,Romance,5
+383,22,Inside out,Lawrence J Crabb,History,4
+384,32,Son Rise: The Miracle Continues,Barry Neil Kaufman,History,4
+385,32,Unveiled at Last,Bob Sjogren,Drama,3
+386,4,The Day I Almost Quit,Frederick J. Moody,Adventure,4
+387,26,"Serving As Senders: How to Care for Your Missionaries While They Are Preparing to Go, While They Are on the Field, When They Return Home",Neal Pirolo,History,5
+388,4,House of Stairs,William Sleator,Drama,5
+389,17,The Little Prince,Antoine de Saint-ExupÃ©ry,Adventure,2
+390,15,Jonathan Livingston Seagull,Richard Bach,Drama,3
+391,25,The Crystal Handbook,Kevin Sullivan,Romance,3
+392,9,Simple Wicca (Simple Wisdom Book),Michele Morgan,Biography,1
+393,21,"The Complete Book of Incense, Oils &amp; Brews (Llewellyn's Practical Magick)","Scott, Cunningham",Thriller,4
+394,6,"The Western Mysteries: An Encyclopedic Guide to the Sacred Languages &amp; Magickal Systems of the World : The Key of It All, Book II (Key of It All)",David Allen Hulse,Romance,2
+395,26,Astral Travel for Beginners (For Beginners),Richard Webster,Adventure,3
+396,25,New Perspectives: Runes,Bernard King,Adventure,4
+397,32,Rosie'S Walk,Pat Hutchins,Sci-Fi,4
+398,4,Julius Caesar (Oxford School Shakespeare),William Shakespeare,Thriller,2
+399,29,"Santa Brought A Son : Marrying The Boss's Daughter (Silhouette Romance, 1698)",Melissa McClone,Adventure,1
+400,34,"Marry Me ... Again   Montana Mavericks (Silhouette Special Edition, 1558)",Cheryl St. John,Thriller,4
+401,18,Alice's Adventures in Wonderland and Through the Looking Glass,Lewis Carroll,Thriller,3
+402,28,Moonlight Becomes You,Mary Higgins Clark,Adventure,4
+403,33,The Adventures of Tom Sawyer,Mark Twain,Comedy,5
+404,29,Divine Secrets of the Ya-Ya Sisterhood : A Novel,Rebecca Wells,Adventure,5
+405,8,Lakota Woman,Dog Mary Crow,Thriller,1
+406,18,The Perfect Storm : A True Story of Men Against the Sea,Sebastian Junger,Biography,3
+407,1,"Heroes of Their Own Lives: The Politics and History of Family Violence, Boston 1880-1960",Linda Gordon,Romance,2
+408,15,The Florence King Reader,Florence King,Adventure,1
+409,28,The Lovely Bones: A Novel,Alice Sebold,Thriller,5
+410,5,Impossible Vacation,Spalding Gray,Adventure,1
+411,16,Hannibal,Thomas Harris,History,2
+412,8,London : The Novel,EDWARD RUTHERFURD,Biography,4
+413,10,Life Before Man,Margaret Atwood,Comedy,5
+414,25,Cavedweller,Dorothy Allison,History,4
+415,28,The Robber Bride,Margaret Atwood,Biography,4
+416,29,Wouldn't Take Nothing for My Journey Now,MAYA ANGELOU,Thriller,1
+417,11,The House of Mirth (Library of America),Edith Wharton,Drama,3
+418,20,Ohitika Woman,Mary Brave Bird,History,4
+419,17,Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux,John G. Neihardt,Drama,1
+420,16,The Community in America,Roland Warren,Sci-Fi,4
+421,31,"The Best in Tent Camping: Smoky Mountains : A Guide for Campers Who Hate Rvs, Concrete Slabs, and Loud Portable Stereos (Best in Tent Camping Colorado)",Johnny Molloy,Biography,4
+422,31,Mawrdew Czgowchwz (New York Review Books Classics),James McCourt,History,2
+423,21,Prozac Nation: Young and Depressed in America : A Memoir,Elizabeth Wurtzel,Drama,4
+424,3,The Journey From Here,Bill Bradley,Sci-Fi,3
+425,14,The Four Agreements: A Practical Guide to Personal Freedom,Don Miguel Ruiz,Comedy,4
+426,31,El desarrollo de Leonardo da Vinci (BiografÃ­as y memorias),Luis Racionero,Adventure,4
+427,31,Gastronomia divina (L'Ã¡ncora),Eugeni Perea SimÃ³n,History,1
+428,13,Desaparecido: LA Autentica Historia De LA Ejecucion De Charles Horman,Thomas Hauser,Comedy,5
+429,13,Hotel Europa (El BalancÃ­),VicenÃ§ Villatoro,Romance,2
+430,14,La dona dels ulls de pluja: Barcelona anys 90 (El BalancÃ­),VÃ­ctor Mora,Comedy,1
+431,17,El paraÃ­so (Tiempos modernos),Elena Castedo,Biography,1
+432,17,Negra i consentida (ColÂ¨lecciÃ³ El Mirall),OfÃ¨lia Dracs,Romance,3
+433,13,Essa efa (ColÂ¨lecciÃ³ El Mirall i el temps),OfÃ¨lia Dracs,Thriller,1
+434,13,Espurnes de sang (La Negra),Antoni Serra,Romance,1
+435,29,Les llengÃ¼es d'Africa (Biblioteca universal EmpÃºries),M. Carme Junyent,Adventure,2
+436,9,TrÃ nsit (Area contemporÃ nia),Jaume CapÃ³,Biography,3
+437,19,L'home del sac,MÃ rius Serra,History,3
+438,34,GrÃ cies per la propina (Columna),Ferran Torrent,Comedy,5
+439,29,El dia que es va cremar el Liceu (La primera Columna),Joan Agut,Romance,5
+440,33,CÃ³mo ser una mujer y no morir en el intento (ColecciÃ³n El Papagayo),Carmen Rico-Godoy,History,5
+441,30,Una casa en Irlanda,Maeve Binchy,Drama,3
+442,6,La mirada del tafur (ColÂ¨lecciÃ³ clÃ ssica),Ferran Torrent,History,3
+443,33,Amorrada al pilÃ³ (Columna),Maria JaÃ©n,Adventure,2
+444,4,Blur (Melody Maker),Paul Lester,Thriller,5
+445,34,War and Peace (Wordsworth Classics),Leo Tolstoy,Adventure,3
+446,23,A-Z of Behaving Badly,Simon Nye,Romance,5
+447,21,He Understanding Masculine Psychology,Robert A Johnson,History,3
+448,14,Las DOS Muertes De Gardel (Ficcionario),Horacio Vazquez-Rial,Comedy,5
+449,32,You Can Surf the Net: Your Guide to the World of the Internet,Marc Gascoigne,Biography,5
+450,24,I Want to Be...a Veterinarian (I Want to Be... Series),Stephanie Maze,Comedy,4
+451,24,Alice's Tulips,Sandra Dallas,Comedy,5
+452,32,Centaur Aisle,Piers Anthony,Thriller,4
+453,9,Crewel Lye,Piers Anthony,Drama,3
+454,7,Dragonflight (Dragonriders of Pern Trilogy (Paperback)),Anne McCaffrey,Sci-Fi,5
+455,24,Last Sword of Power (Stones of Power),David Gemmell,History,5
+456,14,Dating Big Bird,Laura Zigman,Thriller,1
+457,8,The Firm,John Grisham,History,1
+458,6,Murder at the Kennedy Center (Capital Crime Mysteries),Margaret Truman,Biography,5
+459,3,"Guinness World Records 2000 (Guinness Book of Records, 2000)",Nic Kynaston,History,5
+460,22,Forever Amber Brown (Amber Brown (Paperback)),Paula Danziger,Biography,4
+461,11,Philip Jose Farmer's The Dungeon,Richard A. Lupoff,Drama,3
+462,27,Pool of Radiance: The Ruins of Myth Drannor (Forgotten Realms),Carrie Bebris,Drama,5
+463,20,"Feminism and Suffrage: The Emergence of an Independent Women's Movement in America, 1848-1869",Ellen Carol Dubois,Thriller,2
+464,15,Why Are Boys So Weird (Tales from Third Grade),Candice F. Ransom,Adventure,1
+465,32,Sheldon &amp; Mrs. Levine: An Excruciating Correspondence,Sam Bobrick,Biography,1
+466,19,Black Beauty (Great Illustrated Classics (Playmore)),Anna Sewell,History,5
+467,8,Oliver Twist (Great Illustrated Classics),Charles Dickens,Biography,1
+468,29,The wild ponies of Assateague Island (Books for young explorers),Donna K Grosvenor,Sci-Fi,5
+469,26,Frankenstein (Illustrated Classics Series),Mary Wollstonecraft Shelley,History,3
+470,21,The Scarlet Letter,NATHANIEL HAWTHORNE,Drama,3
+471,31,Dragonsong (Harper Hall Trilogy),Anne McCaffrey,History,5
+472,19,The Watch House,Robert Westall,History,5
+473,5,Was It Something I Said?,Valerie Block,Drama,2
+474,6,Cloud Nine,Luanne Rice,History,3
+475,9,The Lovely Bones,Alice Sebold,History,1
+476,32,The Tortilla Curtain,T. Coraghessan Boyle,Drama,3
+477,17,Sarah Conley,Ellen Gilchrist,Adventure,1
+478,19,A Widow for One Year,JOHN IRVING,Romance,1
+479,4,The Clearing,TIM GAUTREAUX,History,2
+480,27,Empire Falls,Richard Russo,Sci-Fi,5
+481,23,Oryx and Crake,Margaret Atwood,Romance,4
+482,26,Sophie's World: A Novel About the History of Philosophy (Berkeley Signature Edition),Jostein Gaarder,Drama,2
+483,16,Black and Blue,ANNA QUINDLEN,Biography,5
+484,25,Le Divorce (William Abrahams Book),Diane Johnson,Sci-Fi,5
+485,20,The Face,DEAN KOONTZ,Adventure,4
+486,12,She's Come Undone (Oprah's Book Club),Wally Lamb,Comedy,3
+487,22,Falling Leaves: The True Story of an Unwanted Chinese Daughter,Adeline Yen Mah,Comedy,4
+488,12,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,History,5
+489,25,"The Game of Kings (Lymond Chronicles, 1)",DOROTHY DUNNETT,Comedy,2
+490,13,"RUSSIA HOUSE, THE",JOHN LE CARRE,Thriller,1
+491,30,Solv-A-Crime Puzzles (Dover Game and Puzzle Activity Books),A. C. Gordon,Romance,5
+492,11,The First Wives Club Movie Tie In,Olivia Goldsmith,Comedy,2
+493,9,Selected Poems of Emily Dickinson,Emily Dickinson,Comedy,3
+494,34,Watercolor School (Reader's Digest Learn-As-You-Go Guides),Hazel Harrison,Sci-Fi,1
+495,32,Joshua In the Holy Land,Joseph Girzone,History,3
+496,2,The Messenger,JOSEPH GIRZONE,Sci-Fi,2
+497,21,Sisters of the Earth: Women's Prose and Poetry About Nature,Lorraine Anderson,Thriller,3
+498,33,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,Romance,3
+499,31,Househusband,AD HUDLER,Comedy,4
+500,31,Life Messages: Inspiration For The Woman's Spirit,Josephine Carlton,History,1
+501,9,Letters from a Nut,Ted L. Nancy,Biography,5
+502,6,Karl Marx: A Life,Francis Wheen,Drama,1
+503,23,The Shining,Stephen King,History,2
+504,32,The Diary of Ellen Rimbauer: My Life at Rose Red,Joyce Reardon,History,1
+505,19,The Sky Is Falling,Sidney Sheldon,Biography,5
+506,25,Santa Pete : A Novel Of Christmas Present And Past,Christopher Moore,History,1
+507,4,Mount Vernon Love Story : A Novel of George and Martha Washington,Mary Higgins Clark,Sci-Fi,5
+508,18,The Kingdom: Arabia and the House of Sa'Ud,Robert Lacey,Thriller,5
+509,27,Florida Road Kill: A Novel,Tim Dorsey,Adventure,4
+510,20,The 37th Hour,JODI COMPTON,Drama,5
+511,22,Be Cool,Elmore Leonard,Comedy,1
+512,10,The Hunted,Elmore Leonard,Biography,2
+513,22,The Saints of Big Harbour: A Novel,Lynn Coady,Biography,3
+514,4,Old Flames,John Lawton,History,4
+515,1,From the Earth: Chinese Vegetarian Cooking,Eileen Yin-Fei Lo,Adventure,1
+516,5,Living in the Presence: Disciplines for the Spiritual Heart,Tilden H. Edwards,Romance,2
+517,10,The Bean Trees,Barbara Kingsolver,Biography,1
+518,24,Homeland and Other Stories,Barbara Kingsolver,Adventure,3
+519,4,"A Suitable Boy : Novel, A",Vikram Seth,Drama,5
+520,27,Daughter of Fortune,Isabel Allende,History,5
+521,10,The Fly on the Wall,Tony Hillerman,Comedy,2
+522,21,Cranford (The World's Classics),Elizabeth Gaskell,Biography,1
+523,7,The Red Tent (Bestselling Backlist),Anita Diamant,Drama,3
+524,31,The Right Hand of Amon,Lauren Haney,Comedy,5
+525,6,Last Blue: Poems,Gerald Stern,Adventure,1
+526,30,The Cat Who Wasn't There,Lilian Jackson Braun,History,1
+527,3,Isle of Dogs,Patricia Daniels Cornwell,History,5
+528,16,Light a Penny Candle,Maeve Binchy,Adventure,3
+529,32,The Blue Last: A Richard Jury Mystery (Richard Jury Mysteries (Paperback)),Martha Grimes,Thriller,5
+530,10,Turn of the Screw and Short N,Henry James,History,2
+531,16,The Country of the Pointed Firs (Dover Thrift Editions),Sarah Orne Jewett,Adventure,4
+532,30,Early Poems (Dover Thrift Editions),William Carlos Williams,Adventure,3
+533,21,Barchester Towers (Oxford Pocket Classics),Anthony Trollope,Sci-Fi,4
+534,26,REEF,Edith Wharton,Romance,5
+535,27,Wednesday the Rabbi Got Wet,Harry Kemelman,Drama,3
+536,11,Things My Girlfriend and I Have Argued About: A Novel,Mil Millington,Romance,2
+537,20,Listening Hearts: Discerning Call in Community,Suzanne G. Farnham,Adventure,4
+538,13,Unattainable Earth,Czeslaw Milosz,Adventure,2
+539,6,"The Practice of Prayer (New Church's Teaching Series, Vol 4)",Margaret Guenther,Sci-Fi,4
+540,3,Vertical Poetry: Recent Poems,Roberto Juarroz,Biography,1
+541,6,Rubinstein's Chess Masterpieces,Akiba Rubinstein,Drama,2
+542,12,The Nanny Diaries: A Novel,Emma McLaughlin,Sci-Fi,5
+543,31,Biblioteca Universale Rizzoli: Sulla Sponda Del Fiume Piedra,P Coelho,Romance,3
+544,19,I Giorni Dell'abbandono,Elena Ferrante,Adventure,4
+545,11,The Gizmo,Paul Jennings,Drama,2
+546,21,The Last Best Hope of Earth: Abraham Lincoln and the Promise of America,"Mark E., Jr. Neely",Thriller,2
+547,32,Organic Chemistry (Saunders Golden Sunburst Series),Stephen J. Weininger,Thriller,4
+548,11,Secrets of St. John's Wort: A Lynn Sonberg Book,Larry Katzenstein,Biography,5
+549,29,Diet for a Poisoned Planet: How to Choose Safe Foods for You and Your Family,David Steinman,Adventure,4
+550,26,"Punished by Rewards: The Trouble With Gold Stars, Incentive Plans, A'S, Praise, and Other Bribes",Alfie Kohn,Thriller,2
+551,12,Montessori Today: A Comprehensive Approach to Education from Birth to Adulthood,Paula Polk Lillard,History,3
+552,8,Oil Painting Techniques (Artist's Painting Library),David Lewis,History,5
+553,6,Going down swinging,Billie Livingston,Romance,1
+554,13,Confessions of a Sociopathic Social Climber : The Katya Livingston Chronicles (Katya Livingston Chronicles (Hardcover)),Adele Lang,Comedy,3
+555,30,Like a Hole in the Head,Jen Banbury,History,2
+556,34,Postmortem,Patricia Daniels Cornwell,Drama,1
+557,31,The Cove,Catherine Coulter,Thriller,4
+558,24,An Inconvenient Woman,Dominick Dunne,Comedy,1
+559,9,Shock Wave (Dirk Pitt Adventures (Paperback)),Clive Cussler,Adventure,5
+560,26,While My Pretty One Sleeps,Mary Higgins Clark,Sci-Fi,4
+561,28,Antipodes 10,John Pascal,Drama,1
+562,9,Kick Ass: Selected Columns of Carl Hiaasen,Carl Hiaasen,Romance,5
+563,30,Everything Is Illuminated: A Novel,Jonathan Safran Foer,Romance,4
+564,27,Life of Pi,Yann Martel,Thriller,1
+565,31,Rules of the Wild,Francesca Marciano,Adventure,3
+566,23,Three Junes,JULIA GLASS,Biography,3
+567,33,Back Roads,Tawni O'Dell,Thriller,1
+568,23,In Her Shoes : A Novel,Jennifer Weiner,Adventure,1
+569,3,The Kiss,Danielle Steel,History,4
+570,30,Home Spun: A Collection,Leon Hale,Comedy,5
+571,2,Sweet Hereafter Movie Tie-In : A Novel,Russell Banks,Biography,5
+572,4,The Rime of the Ancient Mariner and Other Poems,Samuel Taylor Coleridge,Drama,4
+573,32,11th Hour,Bradley Warshauer,Adventure,1
+574,22,In Country RI,Bobbie Ann Mason,Biography,4
+575,1,Brazen Virtue,Nora Roberts,Comedy,3
+576,2,Ghost Moon,Karen Robards,Romance,1
+577,33,Brewing Up a Storm: A John Thatcher Mystery,Emma Lathen,Sci-Fi,1
+578,31,Strangers,Dean R. Koontz,Biography,5
+579,28,Milk and Honey (Peter Decker/Rina Lazarus Novels),Faye Kellerman,Adventure,5
+580,9,The Deep End of the Ocean (Oprah's Book Club),Jacquelyn Mitchard,Biography,1
+581,33,Night Tales,Nora Roberts,Romance,1
+582,2,A Thousand Acres (Ballantine Reader's Circle),JANE SMILEY,History,3
+583,34,Chopping Spree,DIANE MOTT DAVIDSON,Romance,4
+584,33,Four Blondes,Candace Bushnell,Biography,1
+585,19,River's End,Nora Roberts,Sci-Fi,1
+586,27,Summer Island,KRISTIN HANNAH,Romance,2
+587,6,The Straw Men,Michael Marshall,Sci-Fi,5
+588,20,The Doctor the Patient: The Personal Journey of a Physician With Cancer,Allen Widome,Sci-Fi,2
+589,3,The Street Lawyer,John Grisham,Biography,1
+590,34,The Chamber,John Grisham,History,5
+591,30,Warlock : A Novel of Ancient Egypt,Wilbur Smith,Adventure,4
+592,1,The Teacher from the Black Lagoon,Mike Thaler,Drama,2
+593,8,The Partner,John Grisham,Sci-Fi,3
+594,32,Primal Scream,Michael Slade,Biography,2
+595,15,Chosen Prey,John Sandford,Adventure,4
+596,24,Guilty as Sin,TAMI HOAG,Comedy,3
+597,30,Night Sins,TAMI HOAG,Romance,2
+598,33,The Second Time Around : A Novel,Mary Higgins Clark,Sci-Fi,5
+599,23,Three,Ted Dekker,Romance,4
+600,9,The Canopy,Angela Elwell Hunt,Biography,3
+601,11,Blink,Ted Dekker,Sci-Fi,5
+602,32,Last Battle,C. S. Lewis,Romance,3
+603,26,Prince Caspian,C. S. Lewis,Sci-Fi,5
+604,23,Robert's Rules of Order,William Eisner,Adventure,5
+605,10,Abduction,Robin Cook,Biography,5
+606,34,And Never Let Her Go : Thomas Capano: The Deadly Seducer,Ann Rule,History,3
+607,21,Not a Day Goes By : A Novel,E. LYNN HARRIS,Drama,1
+608,14,Sun Signs,Linda Goodman,Comedy,3
+609,27,"The Vampire Lestat (Vampire Chronicles, Book II)",ANNE RICE,Adventure,2
+610,32,The Mummy or Ramses the Damned,Anne Rice,Comedy,4
+611,27,HIS LITTLE WOMEN : HIS LITTLE WOMEN,Judith Rossner,History,1
+612,1,Her Mother's Daughter,Marilyn French,Biography,1
+613,34,Your Erroneous Zones,Wayne W. Dyer,History,3
+614,21,The Night Listener,Armistead Maupin,Romance,5
+615,21,Organizing from the Inside Out,Julie Morgenstern,Comedy,5
+616,26,The Hellfire Club,Peter Straub,Romance,3
+617,24,"The Diary of Jack the Ripper/the Discovery, the Investigation, the Debate",Jack,Comedy,5
+618,18,Vanished,Danielle Steel,Biography,5
+619,8,The Women in His Life (G K Hall Large Print Book Series),Barbara Taylor Bradford,Biography,4
+620,23,The Morning After,Lisa Jackson,Biography,3
+621,21,Missing Susan,SHARYN MCCRUMB,Biography,2
+622,7,Hiding in the Shadows (Shadows Trilogy (Paperback)),Kay Hooper,Thriller,2
+623,34,Kitchen Privileges : A Memoir,Mary Higgins Clark,Romance,2
+624,31,We Are Our Mothers' Daughters,Cokie Roberts,History,4
+625,19,Horus's Horrible Day (First Graders from Mars),Shana Corey,Comedy,1
+626,12,My Garden (Beginning Literacy),Jesse S. Ostrow,Biography,1
+627,14,101 Dalmatians,Justine Korman,Thriller,1
+628,26,In the Dinosaur's Paw (Kids of the Polk Street School),PATRICIA REILLY GIFF,Romance,3
+629,20,Ralph S. Mouse,Beverly Cleary,Romance,3
+630,22,"The First Journey (Animorphs. Alternamorphs, 1)",K. A. Applegate,Biography,4
+631,26,How Do Dinosaurs Learn to Read,Jane Yolen,Thriller,5
+632,17,My First Book about Space (Golden Look-Look Books (Paperback)),Dinah L. Moche,Thriller,1
+633,17,You Be the Jury #02,Marvin Miller,Thriller,2
+634,19,Comic Characters,Craig Boldman,Comedy,5
+635,10,The Time Machine (Troll Illustrated Classics),H. G. Wells,Sci-Fi,1
+636,25,I Like School (in My World Series),Bobbie Kalman,Drama,5
+637,14,Sacred Ground,Mercedes Lackey,Biography,2
+638,16,Burning Water (Burning Water),Mercedes Lackey,Adventure,4
+639,16,The Tightrope Walker,Dorothy Gilman,History,3
+640,25,MoveOn's 50 Ways to Love Your Country: How to Find Your Political Voice and Become a Catalyst for Change,Moveon,Romance,3
+641,8,Children of the Night,Mercedes Lackey,Thriller,2
+642,13,Rainbow the Stormy Life of Judy Garland,Christopher Finch,Drama,2
+643,17,Cold Mountain (MTI) (Vintage Contemporaries),CHARLES FRAZIER,Adventure,3
+644,34,A Fountain Filled With Blood (A Rev. Clare Ferguson Mystery),Julia Spencer-Fleming,Drama,3
+645,31,Out of the Deep I Cry : A Clare Fergusson/Russ Van Alstyne Mystery,Julia Spencer-Fleming,Romance,1
+646,12,Daisy Fay and the Miracle Man,Fannie Flagg,Thriller,2
+647,29,Little House On the Prairie,Laura Ingall Wilder,Drama,2
+648,32,Angela's Ashes: A Memoir,Frank McCourt,Adventure,5
+649,16,The Next Accident,LISA GARDNER,Romance,5
+650,14,Socks (Cleary Reissue),Beverly Cleary,Sci-Fi,2
+651,21,"The Pet Shop Mystery (Boxcar Children Special (Paper), No 7)",Gertrude Chandler Warner,Thriller,3
+652,32,In the Bleak Midwinter (A Rev. Clare Ferguson Mystery),Julia Spencer-Fleming,Biography,3
+653,32,"The Amber Spyglass (His Dark Materials, Book 3)",PHILIP PULLMAN,Adventure,1
+654,13,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,Biography,1
+655,17,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Adventure,5
+656,16,Eyeshot,Lynn S. Hightower,Comedy,5
+657,5,"If Ever I Return, Pretty Peggy-O",Sharyn McCrumb,Adventure,3
+658,11,The Rosewood Casket,Sharyn McCrumb,Adventure,1
+659,15,The Amazing Mrs. Pollifax,Dorothy Gilman,Comedy,4
+660,8,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,Adventure,3
+661,16,The Unsung Hero,Suzanne Brockmann,Adventure,3
+662,11,"Two Princesses of Bamarre, The",Gail Carson Levine,Comedy,2
+663,8,Ella Enchanted (rack),Gail Carson Levine,Adventure,4
+664,1,Passing for Thin : Losing Half My Weight and Finding My Self,FRANCES KUFFEL,Biography,5
+665,33,Bloodlines (Dog Lover's Mysteries),Susan Conant,Romance,1
+666,18,Kissing in Manhattan,DAVID SCHICKLER,Adventure,1
+667,17,Echoes,Maeve Binchy,Comedy,1
+668,8,Someone to Watch Over Me : A Novel,Judith McNaught,History,3
+669,22,The Toynbee Convector,Ray Bradbury,Drama,4
+670,27,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,Adventure,3
+671,3,The Bell Jar : A Novel (Perennial Classics),Sylvia Plath,Sci-Fi,5
+672,4,A polar bear called Pingo,Ilona Koidahl,Adventure,5
+673,2,Dark Lady,Richard North Patterson,Adventure,1
+674,27,The Future Scrolls,Fern Michaels,History,5
+675,32,About Face,Fern Michaels,Drama,2
+676,4,Tarot Says Beware (A Herculeah Jones Mystery),Betsy Byars,Sci-Fi,1
+677,4,Globalhead,Bruce Sterling,Biography,3
+678,17,Along Came a Spider (Alex Cross Novels),James Patterson,History,4
+679,27,Simple Abundance:  A Daybook of Comfort and Joy,Sarah Ban Breathnach,Biography,2
+680,2,The River King,Alice Hoffman,Romance,5
+681,12,Final Appeal,Lisa Scottoline,Comedy,4
+682,13,Who Moved My Cheese? An Amazing Way to Deal with Change in Your Work and in Your Life,Spencer Johnson,Thriller,2
+683,20,Atonement,Ian McEwan,Thriller,2
+684,5,Why Do Clocks Run Clockwise? and Other Imponderables: Mysteries of Everyday Life Explained,David Feldman,Romance,3
+685,17,Someone to Watch Over Me : Stories,Richard Bausch,Romance,4
+686,34,Stately Pursuits,Katie Fforde,Romance,2
+687,5,The Pinball Effect: How Renaissance Water Gardens Made the Carburetor Possible-And Other Journeys Through Knowledge (Pinball Effect),James Burke,History,2
+688,32,"My Father, Dancing (Harvest Book)",Bliss Broyard,Comedy,2
+689,14,Women on the Case,Sara Paretsky,Comedy,1
+690,24,New Cardiff,Charles Webb,Sci-Fi,4
+691,4,Almost: A Novel,Elizabeth Benedict,Romance,1
+692,5,A Tally of Types: With Additions by Several Hands ; And With a New Introduction by Mike Parker,Stanley Morison,Drama,5
+693,1,Stand Still Like the Hummingbird,Henry Miller,Comedy,4
+694,14,Crossing the Unknown Sea: Work As a Pilgrimage of Identity,David Whyte,History,3
+695,7,The Future of Leadership: Today's Top Leadership Thinkers Speak to Tomorrow's Leaders,Warren  Bennis,Biography,4
+696,29,"Expecting Adam: A True Story of Birth, Rebirth, and Everyday Magic",Martha Beck,Romance,2
+697,1,No Future Without Forgiveness,Desmond Mpilo Tutu,Biography,1
+698,1,"A Call to Conscience : The Landmark Speeches of Dr. Martin Luther King, Jr.",Kris Shepard,Drama,3
+699,17,On the Road (Penguin 20th Century Classics),Jack Kerouac,Comedy,3
+700,6,I And Thou,Martin Buber,History,5
+701,22,The Prince (Dover Thrift Editions),NiccolÃ² Machiavelli,Romance,2
+702,24,"Sarajevo, maybe (Anni Novanta/Feltrinelli)",Gianfranco Bettin,History,1
+703,12,Becoming a Man : Half a Life Story,Paul Monette,Adventure,2
+704,16,OLD MAN AND THE SEA,Ernest Hemingway,Sci-Fi,5
+705,21,Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl),Melody Carlson,Romance,5
+706,1,The Dominant Blonde,Alisa Kwitney,History,1
+707,22,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,Biography,4
+708,25,The Girls' Guide to Hunting and Fishing,Melissa Bank,History,2
+709,22,Rena's Promise: A Story of Sisters in Auschwitz,Rena Kornreich Gelissen,History,2
+710,31,America the Beautiful: A Novel,Moon Unit Zappa,Comedy,3
+711,19,Easy Travel to Other Planets,Ted Mooney,Sci-Fi,4
+712,3,The Mist and the Magic (Harper Monogram),Susan Wiggs,Romance,4
+713,27,Icy Sparks,Gwyn Hyman Rubio,Thriller,1
+714,6,The True and Outstanding Adventures of the Hunt Sisters: A Novel,Elisabeth Robinson,Sci-Fi,3
+715,34,The Time Traveler's Wife,Audrey Niffenegger,Thriller,3
+716,29,Strange Fits of Passion: A Novel,Anita Shreve,Drama,5
+717,1,The Monk Downstairs: A Novel,Tim Farrington,Comedy,3
+718,33,Lost in Place: Growing Up Absurd in Suburbia,Mark Salzman,Drama,3
+719,8,My Name Is Asher Lev,Chaim Potok,Biography,5
+720,27,Waking the Dead,Scott Spencer,Thriller,5
+721,30,Davita's Harp,Chaim Potok,Biography,2
+722,9,The Book of Lights,Chaim Potok,Thriller,2
+723,3,The Mimic Men,V. S. Naipaul,Drama,2
+724,15,The Mystic Masseur,V.S. Naipaul,Thriller,2
+725,10,Regain,Jean Giono,Drama,3
+726,20,Le Grand Meaulnes (Classiques De Poche),Alain-Fournier,Sci-Fi,3
+727,25,A l'Ouest rien de nouveau,Erich Maria Remarque,Thriller,2
+728,23,Pourquoi j'ai mangÃ?Â© mon pÃ?Â¨re,Lewis,Romance,4
+729,26,Ravage,Rene Barjavel,Biography,3
+730,17,Voyage d'une parisienne Ã?Â  Lhassa,Alexandra David-NÃ?Â©el,Biography,5
+731,11,Les Fleurs Du Mal,C. Baudelaire,Drama,2
+732,12,Chroniques martiennes,Ray Bradbury,History,4
+733,9,Le Diable Au Corps,Raymond Radiguet,Sci-Fi,3
+734,18,La Faute de l'abbÃ?Â© Mouret,Emile Zola,Drama,4
+735,2,L'Homme Qui Plantait Des Arbres,Jean Giono,Adventure,1
+736,30,La Guerre Des Boutons,Pergaud,Romance,3
+737,26,Paroles de Poilus : Lettres et carnets du front 1914-1918,Collectif,Thriller,3
+738,30,Une porte sur l'Ã?Â©tÃ?Â©,Robert A. Heinlein,Biography,1
+739,19,Die Entdeckung der Langsamkeit.,Sten Nadolny,Drama,1
+740,34,Die Grenzen des Geschlechts: Anleitungen zum Sturz des internationalen Patriarchats : Amnesty for Women (Rororo Sachbuch),Cheryl Benard,Comedy,1
+741,12,Frauen der Welt: Vom Fortschritt der Ungleichheit,Christa Wichterich,History,3
+742,14,I Ging. Das Buch der Wandlung. Das groÃ?Â?e Weisheits- und Orakelbuch der alten Chinesen.,John. Blofeld,Romance,1
+743,17,African Women: Their Struggle for Economic Independence,Christine Obbo,History,4
+744,2,Die globalisierte Frau: Berichte aus der Zukunft der Ungleichheit (Frauen aktuell),Christa Wichterich,Sci-Fi,1
+745,1,"Women are the Niggers of the World: Ã¼ber Frauen, Herrenmenschen und Nietzsches Peitsche (AtV Dokument und Essay)",Peter B Heim,Drama,4
+746,8,Sense and Sensibility (Penguin Popular Classics),Jane Austen,Adventure,5
+747,32,Der gemietete Mann.,Hera Lind,Sci-Fi,4
+748,12,Der Gott der kleinen Dinge.,Arundhati Roy,Romance,1
+749,22,The Da Vinci Code,Dan Brown,Comedy,1
+750,27,The Rescue,Nicholas Sparks,Biography,3
+751,6,A Map of the World,Jane Hamilton,Drama,1
+752,28,Edge of Danger,Jack Higgins,Thriller,4
+753,10,Bridget Jones : The Edge of Reason,Helen Fielding,Biography,1
+754,3,Vinegar Hill (Oprah's Book Club (Hardcover)),A. Manette Ansay,History,5
+755,19,The Pilot's Wife : A Novel Tag: Author of the Weight of Water (Oprah's Book Club (Hardcover)),Anita Shreve,Adventure,1
+756,13,Saving Private Ryan: A Novel,Max Allan Collins,Thriller,1
+757,32,Big Trouble,Dave Barry,Drama,2
+758,14,Snow Falling on Cedars,David Guterson,Comedy,5
+759,24,Skipping Christmas,JOHN GRISHAM,Thriller,1
+760,23,The Reader,Bernhard Schlink,Thriller,1
+761,5,Cheaters,Eric Jerome Dickey,Biography,3
+762,6,Angel Falls,KRISTIN HANNAH,Biography,2
+763,33,The Saving Graces : A Novel,Patricia Gaffney,Thriller,5
+764,22,Daddy's Little Girl,Mary Higgins Clark,Sci-Fi,1
+765,26,The Vineyard : A Novel,Barbara Delinsky,Thriller,4
+766,21,The Looking Glass : A Novel (The Locket Series),Richard Paul Evans,Sci-Fi,4
+767,23,If Only It Were True,Marc Levy,Sci-Fi,3
+768,18,"Dear Stranger, Dearest Friend",Laney Katz Becker,Comedy,2
+769,28,The Cider House Rules: A Novel (Modern Library),John Irving,Drama,4
+770,33,Lolita (Everyman's Library (Cloth)),VLADIMIR NABOKOV,Thriller,1
+771,1,Message in a Bottle,Nicholas Sparks,Comedy,2
+772,20,Blackbird: A Childhood Lost and Found,Jennifer Lauck,Biography,4
+773,8,Protect and Defend,Richard North Patterson,Drama,4
+774,8,Blue Heaven (Contemporary American Fiction S.),Joe Keenan,Romance,4
+775,25,Julie and Romeo,Jeanne Ray,Drama,5
+776,5,The Guardian,Nicholas Sparks,Romance,3
+777,24,Nights in Rodanthe,Nicholas Sparks,Thriller,3
+778,22,Man and Boy,Tony Parsons,Romance,3
+779,12,One Heart,Jane McCafferty,Romance,3
+780,30,"Like Water for Chocolate: A Novel in Monthly Installments, With Recipes, Romances, and Home Remedies",Laura Esquivel,History,4
+781,33,"The Two Towers (The Lord of the Rings, Part 2)",J.R.R. TOLKIEN,History,4
+782,21,All of Me: A Voluptuous Tale,Venise T. Berry,History,3
+783,3,The Perfect Storm: A True Story of Men Against the Sea,Sebastian Junger,Comedy,4
+784,8,The Villa,Nora Roberts,Adventure,3
+785,2,In This Mountain,Jan Karon,History,1
+786,4,"All the Pretty Horses (Border Trilogy, Vol 1)",Cormac McCarthy,Sci-Fi,5
+787,11,Suzanne's Diary for Nicholas,James Patterson,History,1
+788,9,He Sees You When You're Sleeping : A Novel,Mary Higgins Clark,Drama,3
+789,16,2nd Chance,James Patterson,Drama,4
+790,34,The Carousel : A Novel,Richard Paul Evans,Drama,4
+791,12,The Promise Remains,Travis Thrasher,Adventure,2
+792,6,You Cannot Be Serious,John McEnroe,History,4
+793,31,LAKE NEWS : A Novel,Barbara Delinsky,Sci-Fi,5
+794,19,Liar's Game,Eric Jerome Dickey,Drama,5
+795,4,Out of the Blue,Sally Mandel,Sci-Fi,4
+796,27,Voice of the Eagle,Linda Lay Shuler,Sci-Fi,4
+797,34,The Kingdom by the Sea: A Journey Around Great Britain,Paul Theroux,Drama,2
+798,16,Shattered Uk,Dick Francis,Sci-Fi,3
+799,24,The Proud and the Free,Janet Dailey,Sci-Fi,1
+800,10,Shoah,Claude Lanzmann,Sci-Fi,5
+801,32,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",Lemony Snicket,Biography,3
+802,6,TERROR FIRMA,Matthew Thomas,Romance,5
+803,19,Le Loup-garou,Boris Vian,History,2
+804,29,Chronique d'une mort annoncÃ?Â©e,Gabriel Garcia Marquez,Adventure,4
+805,15,Le neveu d'AmÃ?Â©rique,Luis SepÃ?Âºlveda,Romance,1
+806,27,Last Exit to Brooklyn,Hubert Selby,History,3
+807,25,More George W. Bushisms: More Verbal Contortions from America's 43rd President,Jacob Weisberg,Drama,4
+808,28,Therapy,David Lodge,Biography,3
+809,13,Scottish Ghosts,Judy Hamilton,Biography,1
+810,24,Awful End (Eddie Dickens Trilogy S.),Philip Ardagh,History,5
+811,29,The Wasp Factory,Iain Banks,Comedy,2
+812,26,George W. Bushisms : The Slate Book of The Accidental Wit and Wisdom of our 43rd President,Jacob Weisberg,Biography,4
+813,5,The World's Stupidest Laws,David Crombie,Thriller,3
+814,26,"Of Mice and Men (Steinbeck \Essentials\"")""",John Steinbeck,Comedy,5
+815,31,The World's Stupidest Signs,Michael O'Mara,Romance,1
+816,16,Nessie: The Loch Ness Monster,Richard Brassey,Biography,1
+817,30,"XIII, tome 13, L'enquÃ?Âªte : the XIII mystery",Jean Van Hamme,Biography,3
+818,9,How Not to Say What You Mean: A Dictionary of Euphemisms (Oxford Paperback Reference S.),R. W. Holder,Thriller,1
+819,1,Cooking for One (Cook's Essentials),Valerie Ferguson,Biography,3
+820,6,Les Fourmis,Bernard Werber,Romance,1
+821,33,How to Draw Celtic Knotwork: A Practical Handbook,Andy Sloss,Comedy,2
+822,21,The Sorcerer's Companion: A Guide to the Magical World of Harry Potter,ALLAN ZOLA KRONZEK,Thriller,1
+823,1,Celtic Myths and Legends,Charles L. Squire,Drama,1
+824,20,Scottish Folk and Fairy Tales (Penguin Popular Classics),Gordon Jarvie,Thriller,4
+825,2,Terrible Times (Eddie Dickens Trilogy S.),Philip Ardagh,Drama,3
+826,25,CantilÃ¨nes en gelÃ©e ; Barnum's digest ; Vingt poÃ¨mes inÃ©dits (10/18 [i.e. Dix/dix-huit] ; 517),Boris Vian,Thriller,5
+827,4,Glasgow Zen,Alan Spence,Drama,1
+828,9,Totally Muffins Cookbook (Totally Cookbooks),Helene Siegel,Sci-Fi,2
+829,32,Tigger's Little Book of Diet and Exercise,E.H. Shepard,Sci-Fi,4
+830,33,Eeyore's Little Book of Gloom,Alan Alexander Milne,Biography,2
+831,3,The Adventures of Dougal,Eric Thompson,Romance,3
+832,26,Amy and Isabelle,Elizabeth Strout,Sci-Fi,5
+833,1,"Rule of the Bone : Novel, A",Russell Banks,Biography,1
+834,32,Me Talk Pretty One Day,David Sedaris,Adventure,5
+835,12,Stone Butch Blues,Leslie Feinberg,Drama,2
+836,14,stardust,Neil Gaiman,Sci-Fi,4
+837,34,Fires of Aggar,Chris Anne Wolfe,Adventure,5
+838,22,Kamikaze Lust,Lauren Sanders,Biography,1
+839,23,Gossamer Axe,Gael Baudino,Drama,2
+840,31,Witchfire,Lauren Maddison,Drama,5
+841,18,Seven Moves,Carol Anshaw,Biography,1
+842,26,Return to Isis,Jean Stewart,Biography,3
+843,31,Hood,Emma Donoghue,Romance,3
+844,31,Leaving Pipe Shop: Memories of Kin,Deborah McDowell,History,5
+845,12,Love Ruins Everything: A Novel,Karen X. Tulchinsky,Romance,1
+846,30,"Skin: Talking About Sex, Class &amp; Literature",Dorothy Allison,Comedy,5
+847,15,"Death: At Death's Door (Vertigo, Number 1)",Jill Thompson,Comedy,4
+848,18,The Second Coming of Curly Red,Jody Seay,History,2
+849,27,Night Mares,Manda Scott,History,5
+850,24,Hen's Teeth,Manda Scott,Adventure,1
+851,9,The Door to December,Dean R. Koontz,Sci-Fi,5
+852,9,"No Shirt, No Shoes, No Problem!",Jeff Foxworthy,History,5
+853,14,The Scions of Shannara (Heritage of Shannara (Paperback)),Terry Brooks,Drama,1
+854,29,Star Wars the Rebel Dawn: The Han Solo Trilogy (Star Wars: Han Solo Trilogy (Paperback)),A.C. Crispin,Drama,1
+855,14,"The Hutt Gambit (Star Wars: The Han Solo Trilogy, Vol. 2)",A. C. Crispin,Romance,1
+856,2,"The Paradise Snare (Star Wars: The Han Solo Trilogy, Volume 1)",A. C. Crispin,History,1
+857,11,A Year of Full Moons,Madelyn Arnold,Comedy,2
+858,16,Alanna: The First Adventure (Song of the Lioness (Paperback)),Tamora Pierce,History,3
+859,7,"The Beans of Egypt, Maine",Carolyn Chute,Biography,2
+860,4,Warrior Moon,Sara Orwig,Sci-Fi,2
+861,3,The Funhouse,Dean R. Koontz,Comedy,4
+862,32,Cold Iron,Melisa Michaels,Adventure,5
+863,12,Circle of Three #12: Written in the Stars (Circle of Three),Isobel Bird,Comedy,4
+864,2,The Space Merchants,Frederik Pohl,Romance,4
+865,24,DREAMSNAKE,VONDA MCINTYRE,Drama,5
+866,23,Titan,John Varley,Comedy,4
+867,31,The Year They Burned the Books,Nancy Garden,Comedy,5
+868,32,A Density of Souls,Christopher Rice,History,4
+869,19,Slow River,Nicola Griffith,Biography,4
+870,7,Changer,Jane Lindskold,Romance,1
+871,2,Trixie Belden and the Mystery Off Glen Road (Mystery Off Glen Road),Julie Campbell,Sci-Fi,5
+872,13,Lark in the Morning,Nancy Garden,Thriller,4
+873,3,Saving Grace,LEE SMITH,Sci-Fi,2
+874,1,Lena (50 State Quarters),JACQUELINE WOODSON,Drama,4
+875,25,I Hadn't Meant to Tell You This,Jacqueline Woodson,Drama,5
+876,32,Raise the Roof: The Inspiring Inside Story of the Tennessee Lady Vols' Undefeated 1997-98 Season,Pat Head Summitt,Sci-Fi,3
+877,3,"Ufos, JFK and Elvis: Conspiracies You Don't Have to Be Crazy to Believe",Richard Belzer,History,2
+878,2,Hannibal,Thomas Harris,Drama,5
+879,16,About a Boy (Movie Tie-In),Nick Hornby,Romance,2
+880,9,Mostly Harmless,Douglas Adams,Thriller,5
+881,12,The Thorn Birds (Modern Classics),Colleen McCullough,Romance,1
+882,11,Dreamcatcher,Stephen King,Thriller,5
+883,5,Sudden Mischief (Spenser Mysteries (Hardcover)),Robert B. Parker,Sci-Fi,2
+884,15,Elements of Programming With Perl,Andrew L. Johnson,Sci-Fi,2
+885,2,To Catch a Cat,Marian Babson,Adventure,1
+886,12,"People of the Wolf (The First North Americans series, Book 1)",W. Michael Gear,Romance,5
+887,19,The Door to December,Dean R. Koontz,Comedy,1
+888,29,College Majors and Careers: A Resource Guide for Effective Life Planning (College Majors and Careers),Paul Phifer,Biography,5
+889,6,Smilla's Sense of Snow,Peter Hoeg,Romance,3
+890,4,The Grass Is Always Greener over the Septic Tank,Erma Bombeck,Romance,1
+891,21,Viaggi del tempo immobile (I coralli),Roberto Vecchioni,Adventure,4
+892,21,Rumpole on Trial,John Mortimer,Comedy,1
+893,1,Billy Bathgate,E. L. Doctorow,History,5
+894,30,Citizens: A Chronicle of the French Revolution,Simon Schama,Romance,5
+895,7,The Man Who Killed the Deer,Frank Waters,Biography,5
+896,2,The Music of Dolphins (Apple Signature Edition),Karen Hesse,Sci-Fi,1
+897,16,Sunwing (Aladdin Fantasy),Kenneth Oppel,Thriller,3
+898,19,Caddie Woodlawn - Newbery Promo '99 (Aladdin Fiction),Carol Ryrie Brink,History,2
+899,26,The Hork-Bajir Chronicles (Animorphs Series),K. A. Applegate,Sci-Fi,5
+900,18,The Silver Chair (full color) (Narnia),C. S. Lewis,History,2
+901,23,The Magician's Nephew (Narnia),C. S. Lewis,Biography,5
+902,32,"Circles in the Stream (Avalon: Web of Magic, 1)",Shelly R. Roberts,Biography,4
+903,28,High Wizardry: The Third Book in the Young Wizards Series,Diane Duane,Romance,4
+904,2,Deep Wizardry: The Second Book in the Young Wizards Series,Diane Duane,Biography,2
+905,31,So You Want to Be a Wizard: The First Book in the Young Wizards Series,Diane Duane,History,2
+906,10,Going for Great (Ag Fiction (American Girl)),Carolee Brockmann,Comedy,1
+907,11,"All That Glitters (Avalon, 2)",Rachel Roberts,Sci-Fi,2
+908,27,"Cry of the Wolf (Avalon, 3)",Rachel Roberts,Thriller,1
+909,6,"The Secret of the Unicorn (Avalon Web of Magic, 4)",Rachel Roberts,Adventure,4
+910,18,Avalon: Web Of Magic #5: Spellsinger,Rachel Roberts,Drama,5
+911,8,Trial by Fire,Rachel Roberts,Thriller,2
+912,19,"Ties That Bind, Ties That Break (Laurel-Leaf Books)",Lensey Namioka,Biography,2
+913,19,"The Hauntings of Williamsburg, Yorktown, and Jamestown",Jackie Eileen Behrend,Adventure,3
+914,11,The Janitor's Boy,Andrew Clements,Drama,5
+915,21,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Comedy,1
+916,25,The Giver (21st Century Reference),LOIS LOWRY,Drama,1
+917,34,The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun,Paul Hattaway,Comedy,4
+918,31,The Little Book of Chocolate (Little Book Of...(Flammarion)),Alain Stella,History,2
+919,18,Das Schlampenbuch. ErzÃ?Â¤hlungen. ( neue frau).,Milena Moser,Drama,4
+920,16,Die zwei Gesichter des Januars.,Patricia Highsmith,Biography,4
+921,2,Nacht Ã?Â¼ber den Wassern.,Ken Follett,Thriller,1
+922,11,Die SÃ?Â¤ulen der Erde. Roman.,Ken Follett,Romance,1
+923,25,A Man Rides Through (Man Rides Through),Stephen Donaldson,Drama,4
+924,20,Mirror of Her Dreams (Mordant's Need),STEPHEN R. DONALDSON,History,3
+925,24,Reader,Bernhard Schlink,Romance,5
+926,12,The Dead Zone,Stephen King,Sci-Fi,1
+927,21,The Diary of Ellen Rimbauer: My Life at Rose Red,Ellen Rimbauer,Comedy,2
+928,17,A New Germany in a New Europe,Todd Herzog,Romance,2
+929,3,"Belonging in the Two Berlins : Kin, State, Nation (Cambridge Studies in Social and Cultural Anthropology)",John Borneman,Thriller,3
+930,21,The Great Depression : America 1929-1941,ROBERT S. MCELVAINE,Sci-Fi,2
+931,11,Lady of the Shroud,Bram Stoker,Adventure,4
+932,3,"Dark Tide I: Onslaught (Star Wars: The New Jedi Order, Book 2)",Michael A. Stackpole,Romance,3
+933,25,LONG DARK TEA TIME OF THE SOUL,Douglas Adams,Sci-Fi,2
+934,6,The Return of Simple,Langston Hughes,Drama,2
+935,23,Half Moon Street (Charlotte &amp; Thomas Pitt Novels (Paperback)),Anne Perry,Romance,1
+936,21,A Minor Indiscretion (Red Dress Ink (Paperback)),Carol Matthews,Drama,4
+937,11,"For Better, for Worse: A Novel",Carole Matthews,Adventure,4
+938,32,Hidden in Plain View: A Secret Story of Quilts and the Underground Railroad,Jacqueline L. Tobin,Drama,1
+939,12,The Forest House,Marion Zimmer Bradley,Biography,1
+940,7,American Poetry Since 1970: Up Late,Andrei Codrescu,Adventure,2
+941,17,Twin Blessings (Love Inspired (Numbered)),Carolyne Aarsen,Comedy,1
+942,20,West of Dodge: Frontier Stories,Louis L'Amour,Romance,2
+943,6,"How to Make $1,000 a Minute: Negotiating Salaries and Raises",Jack Chapman,Biography,2
+944,31,Non-manipulative selling,Anthony J Alessandra,History,5
+945,19,Come Before Winter and Share My Hope,Charles R. Swindoll,Thriller,4
+946,28,The Bear and the Dragon,Tom Clancy,Sci-Fi,1
+947,25,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,Adventure,4
+948,26,Thinking on paper,V. A Howard,Drama,4
+949,12,Net Force,Tom Clancy,Comedy,2
+950,18,The Testament,John Grisham,Biography,5
+951,28,The Internet Church,Walter P. Wilson,Biography,4
+952,11,The Mp3 and Internet Audio Handbook: Your Guide to the Digital Music Revolution,Bruce Fries,Sci-Fi,3
+953,22,The Way Things Ought to Be,"Rush H., III Limbaugh",Romance,1
+954,27,A Time to Kill,JOHN GRISHAM,Romance,3
+955,15,The Truth About Texas: Who Needs to Brag? We'Ve Got the Facts,Anne Dingus,Biography,4
+956,19,Awakening,Kate Chopin,Drama,2
+957,12,Wall Street's Picks for 2000: An Insider's Guide to the Year's Best Stocks &amp; Mutual Funds (Wall Street's Picks),Kirk Kazanjian,Biography,2
+958,10,Poetics of the New American Poetry,Donald Merriam Allen,Drama,4
+959,28,Patriot Games,Tom Clancy,Drama,3
+960,4,Dead Men Do Tell Tales: The Strange and Fascinating Cases of a Forensic Anthropologist,William Maples,Adventure,2
+961,4,Moonlighting: 148 Great Ways to Make Money on the Side,Carl Hausman,Biography,4
+962,20,Amanda Miranda,Richard Peck,Thriller,4
+963,17,Chasing the Dime,Michael Connelly,Romance,3
+964,6,Tender Triumph (Sonnet Books),Judith McNaught,Drama,2
+965,3,The Cat Who Tailed a Thief,Lilian Jackson Braun,Drama,4
+966,16,Guilt,John T. Lescroart,Thriller,4
+967,15,On Secret Service,John Jakes,Sci-Fi,4
+968,6,Charming Billy,Alice McDermott,Biography,1
+969,19,All the Days of My Life,Hilary Bailey,Biography,3
+970,10,The Dinner Party,Howard Fast,Comedy,4
+971,14,A Palette for Murder: Murder She Wrote (Murder She Wrote (Paperback)),Jessica Fletcher,Drama,1
+972,19,Golden Cup,Belva Plain,Drama,2
+973,25,Murder at the Library of Congress (Capital Crimes (Paperback)),Margaret Truman,History,3
+974,15,No Safe Place,RICHARD NORTH PATTERSON,Adventure,3
+975,13,Thorns of Truth,Eileen Goudge,Comedy,5
+976,34,Granny Dan,DANIELLE STEEL,Biography,2
+977,12,Border Bride,Arnette Lamb,Romance,4
+978,1,The Penwyth Curse,Catherine Coulter,Sci-Fi,2
+979,24,Xanth 15: The Color of Her Panties,Piers Anthony,Romance,1
+980,27,Der FÃ?Â¼rst der Finsternis. Roman.,Anne Rice,Adventure,5
+981,25,A Reporter's Life,WALTER CRONKITE,Drama,5
+982,18,Jacob Marley's Christmas Carol,Tom Mula,History,5
+983,25,"Practice Makes Pregnant   Manhattan Multiples (Silhouette Special Edition, 1569)",Lois Faye Dyer,Sci-Fi,1
+984,28,"The Secret Lives of Girls: What Good Girls Really Do--Sex Play, Aggression, and Their Guilt",Sharon Lamb,History,1
+985,15,Hound of the Baskervilles (Aladdin Classics),Sir Arthur Conan Doyle,Sci-Fi,1
+986,20,SLEEPING MURDER,AGATHA CHRISTIE,Biography,1
+987,26,The Fractal Murders (Pepper Keane Mysteries),Mark Cohen,Sci-Fi,5
+988,5,"Blowtorch Psycho.Com (Bone Chillers, No 18)",Sherry Shahan,Adventure,2
+989,9,Final Stand,Helen Myers,Romance,3
+990,14,Christmas : A Holiday Treasury,Della Rowland,Romance,1
+991,3,Magic House of Numbers.,Irving. Adler,History,4
+992,11,Lord of the Silent: A Novel of Suspense,Elizabeth Peters,History,3
+993,33,Whisper to Me of Love,Shirlee Busbee,Comedy,5
+994,6,Wuthering Heights,EMILY BRONTE,Romance,2
+995,14,The Stars Shine Down,Sidney Sheldon,Biography,5
+996,8,Toxin,Robin Cook,History,3
+997,15,This Present Darkness,Frank E. Peretti,Biography,5
+998,5,The Mothman Prophecies,John A. Keel,Biography,1
+999,20,Meet the Stars of Buffy the Vampire Slayer,Stefanie Scott,Biography,1
+1000,32,Rush to the Altar  (Twin Brides),Rebecca Winters,Thriller,2
